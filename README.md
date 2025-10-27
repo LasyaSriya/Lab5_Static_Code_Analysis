@@ -1,5 +1,5 @@
 # Lab5_Static_Code_Analysis
-# Lab 5 – Static Code Analysis
+
 
 ## Objective
 To analyze and improve Python code quality, security, and style using **Pylint**, **Flake8**, and **Bandit**.  
